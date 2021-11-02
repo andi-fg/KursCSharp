@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aufgabe8_LINQ_OrderbyThenby/1.0.0": {
+        "runtime": {
+          "Aufgabe8_LINQ_OrderbyThenby.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe8_LINQ_OrderbyThenby/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

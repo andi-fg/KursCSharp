@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\ref\Aufgabe_SyncAsnyc_Sync.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\bin\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\ref\Aufgabe_SyncAsnyc_Sync.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsnyc_Sync\Aufgabe_SyncAsnyc_Sync\obj\Debug\net5.0\Aufgabe_SyncAsnyc_Sync.genruntimeconfig.cache

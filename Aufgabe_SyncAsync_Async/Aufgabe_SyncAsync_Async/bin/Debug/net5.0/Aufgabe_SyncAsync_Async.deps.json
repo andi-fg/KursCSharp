@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aufgabe_SyncAsync_Async/1.0.0": {
+        "runtime": {
+          "Aufgabe_SyncAsync_Async.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe_SyncAsync_Async/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

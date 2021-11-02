@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\ref\Aufgabe8_LINQ.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\bin\Debug\net5.0\Aufgabe8_LINQ.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\ref\Aufgabe8_LINQ.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.genruntimeconfig.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ\Aufgabe8_LINQ\obj\Debug\net5.0\Aufgabe8_LINQ.csproj.AssemblyReference.cache

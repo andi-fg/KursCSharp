@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\ref\Aufgabe10_LINQ_GroupBy.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\bin\Debug\net5.0\Aufgabe10_LINQ_GroupBy.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\ref\Aufgabe10_LINQ_GroupBy.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe10_LINQ_GroupBy\Aufgabe10_LINQ_GroupBy\obj\Debug\net5.0\Aufgabe10_LINQ_GroupBy.genruntimeconfig.cache

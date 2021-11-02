@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\ref\Aufgabe8_LINQ_OrderbyThenby.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\bin\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\ref\Aufgabe8_LINQ_OrderbyThenby.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe8_LINQ_OrderbyThenby\Aufgabe8_LINQ_OrderbyThenby\obj\Debug\net5.0\Aufgabe8_LINQ_OrderbyThenby.genruntimeconfig.cache

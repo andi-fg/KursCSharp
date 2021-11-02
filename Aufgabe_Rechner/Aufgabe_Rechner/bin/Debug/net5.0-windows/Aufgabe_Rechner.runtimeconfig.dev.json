@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lucaa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lucaa\\.nuget\\packages"
+    ]
+  }
+}

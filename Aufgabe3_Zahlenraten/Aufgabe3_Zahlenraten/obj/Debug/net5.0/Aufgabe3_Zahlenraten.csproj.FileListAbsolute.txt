@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\ref\Aufgabe3_Zahlenraten.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\bin\Debug\net5.0\Aufgabe3_Zahlenraten.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\ref\Aufgabe3_Zahlenraten.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten\obj\Debug\net5.0\Aufgabe3_Zahlenraten.genruntimeconfig.cache

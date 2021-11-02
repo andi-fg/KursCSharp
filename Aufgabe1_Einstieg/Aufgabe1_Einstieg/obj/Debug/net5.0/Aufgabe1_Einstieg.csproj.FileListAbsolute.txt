@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\ref\Aufgabe1_Einstieg.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\bin\Debug\net5.0\Aufgabe1_Einstieg.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\ref\Aufgabe1_Einstieg.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe1_Einstieg\Aufgabe1_Einstieg\obj\Debug\net5.0\Aufgabe1_Einstieg.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe3_Zahlenraten", "Aufgabe3_Zahlenraten\Aufgabe3_Zahlenraten.csproj", "{5332395F-3F70-4CAE-860C-019606817BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5332395F-3F70-4CAE-860C-019606817BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5332395F-3F70-4CAE-860C-019606817BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5332395F-3F70-4CAE-860C-019606817BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5332395F-3F70-4CAE-860C-019606817BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7408B737-B5C6-4890-978B-800337DD201A}
+	EndGlobalSection
+EndGlobal

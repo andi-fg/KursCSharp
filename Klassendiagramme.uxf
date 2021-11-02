@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>11</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>979</x>
+      <y>330</y>
+      <w>297</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Hund
+--
+-rasse: String 
+-fellFarbe: String
+--
++Hund(rasse: String, name:String)
++belle(): void
++belle(laut:String): void
++belle(laut:String, anzahl:int):void
++getRasse(); String
++getFellFarbe(): String
++setFellFarbe():String
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1342</x>
+      <y>0</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Tier
+--
+-name:String
+--
++Tier(name:String)
++getName():String
++setName():void
++sagHallo() : void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1661</x>
+      <y>330</y>
+      <w>264</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Ente
+--
+
+--
++Ente(name: String)
++sagHallo(): void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1122</x>
+      <y>198</y>
+      <w>352</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>300.0;10.0;300.0;50.0;10.0;50.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>231</y>
+      <w>396</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;340.0;20.0;340.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1331</x>
+      <y>330</y>
+      <w>264</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Elefant
+--
+
+--
++Elefant(name: String)
++sagHallo(): void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1441</x>
+      <y>242</y>
+      <w>33</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1320</x>
+      <y>605</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>/Fahrzeug/
+--
+
+--
+/+beschreib():void/
++bewege():void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1067</x>
+      <y>913</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Auto
+--
+
+--
++beschreib():void
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1573</x>
+      <y>913</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Flugzeug
+--
+
+--
++beschreib():void
++bewege():void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>803</y>
+      <w>286</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0;240.0;60.0;240.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1166</x>
+      <y>847</y>
+      <w>286</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>240.0;20.0;10.0;20.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1287</x>
+      <y>1166</y>
+      <w>308</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Laermerei
+--
+
+--
++addLaermer(laermer : Laermer) : void
++laerme() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1320</x>
+      <y>1496</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Interface&gt;&gt;
+Laermer
+--
++gibLaut():void
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>1364</y>
+      <w>99</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=0..*
+-orchester</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>946</x>
+      <y>1804</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Auto
+--
++gibLaut(): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1320</x>
+      <y>1804</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>/Haustier/
+--
+-
+/+gibLaut():void/</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1144</x>
+      <y>2101</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Hund
+--
+
+--
+gibLaut():void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1485</x>
+      <y>2101</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Katze
+--
+
+--
++gibLaut():void
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1738</x>
+      <y>1793</y>
+      <w>231</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>Donner
+--
+--
++gibLaut():void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>2002</y>
+      <w>198</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0;160.0;40.0;160.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1243</x>
+      <y>2024</y>
+      <w>209</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>170.0;20.0;10.0;20.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>1694</y>
+      <w>33</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1419</x>
+      <y>1749</y>
+      <w>440</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;380.0;10.0;380.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1045</x>
+      <y>1749</y>
+      <w>407</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>350.0;10.0;10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+</diagram>

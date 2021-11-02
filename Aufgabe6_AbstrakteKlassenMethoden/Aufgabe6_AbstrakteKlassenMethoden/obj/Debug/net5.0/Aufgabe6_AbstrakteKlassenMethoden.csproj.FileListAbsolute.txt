@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\ref\Aufgabe6_AbstrakteKlassenMethoden.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\bin\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\ref\Aufgabe6_AbstrakteKlassenMethoden.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe6_AbstrakteKlassenMethoden\Aufgabe6_AbstrakteKlassenMethoden\obj\Debug\net5.0\Aufgabe6_AbstrakteKlassenMethoden.genruntimeconfig.cache

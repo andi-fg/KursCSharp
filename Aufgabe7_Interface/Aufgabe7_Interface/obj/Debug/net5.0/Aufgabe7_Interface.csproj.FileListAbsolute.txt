@@ -1,0 +1,16 @@
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.exe
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.deps.json
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.runtimeconfig.json
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.runtimeconfig.dev.json
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.dll
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\ref\Aufgabe7_Interface.dll
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\bin\Debug\net5.0\Aufgabe7_Interface.pdb
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.csproj.AssemblyReference.cache
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.AssemblyInfoInputs.cache
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.AssemblyInfo.cs
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.dll
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\ref\Aufgabe7_Interface.dll
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.pdb
+C:\Users\lucaa\source\repos\Aufgabe7_Interface\Aufgabe7_Interface\obj\Debug\net5.0\Aufgabe7_Interface.genruntimeconfig.cache

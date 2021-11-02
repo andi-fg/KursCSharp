@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\ref\Aufgabe2_Listen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\bin\Debug\net5.0\Aufgabe2_Listen.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\ref\Aufgabe2_Listen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe2_Listen\Aufgabe2_Listen\obj\Debug\net5.0\Aufgabe2_Listen.genruntimeconfig.cache

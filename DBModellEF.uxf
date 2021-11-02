@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>152</x>
+      <y>88</y>
+      <w>232</w>
+      <h>152</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Table&gt;&gt;
+Autor
+--
+&lt;&lt;PK&gt;&gt;Autor_ID int auto_increment NOT NULL
+Name varchar(50) NOT NULL
+Vorname varchar(50) NOT NULL
+Geburtsdatum date NOT NULL
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>144</x>
+      <y>320</y>
+      <w>256</w>
+      <h>152</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Table&gt;&gt;
+Buch
+--
+&lt;&lt;PK&gt;&gt; Buch_ID int auto_increment NOT NULL
+Titel varchar(50) NOT NULL
+&lt;&lt;FK&gt;&gt;Autor_ID int NOT NULL
+
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>264</x>
+      <y>232</y>
+      <w>40</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=1
+m2=0..*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0</additional_attributes>
+  </element>
+</diagram>

@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\ref\Aufgabe_SyncAsync_Async.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\bin\Debug\net5.0\Aufgabe_SyncAsync_Async.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\ref\Aufgabe_SyncAsync_Async.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.genruntimeconfig.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_SyncAsync_Async\Aufgabe_SyncAsync_Async\obj\Debug\net5.0\Aufgabe_SyncAsync_Async.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\ref\Aufgabe5_Vererbung.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\bin\Debug\net5.0\Aufgabe5_Vererbung.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\ref\Aufgabe5_Vererbung.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe5_Vererbung\Aufgabe5_Vererbung\obj\Debug\net5.0\Aufgabe5_Vererbung.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aufgabe2_Listen/1.0.0": {
+        "runtime": {
+          "Aufgabe2_Listen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe2_Listen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

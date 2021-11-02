@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\ref\Aufgabe4_KlassenMethodenVariablen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\bin\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\ref\Aufgabe4_KlassenMethodenVariablen.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe4_KlassenMethodenVariablen\Aufgabe4_KlassenMethodenVariablen\obj\Debug\net5.0\Aufgabe4_KlassenMethodenVariablen.genruntimeconfig.cache
