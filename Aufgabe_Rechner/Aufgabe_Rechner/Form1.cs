@@ -56,7 +56,7 @@ namespace Aufgabe_Rechner
                         }
                         else
                         {
-                            resultat = Zahl1 / Zahl2;
+                            resultat = (double)Zahl1 / (double)Zahl2;
                         }
                         
                         break;
@@ -64,20 +64,23 @@ namespace Aufgabe_Rechner
                 if (ok)
                 {
                     resultatLbl.Text = Convert.ToString(resultat);
+                    ListViewItem item = new ListViewItem(Zahl1+ "");
+                    item.SubItems.Add(Zahl2 + "");
+                    item.SubItems.Add(operation);
+                    item.SubItems.Add(resultat + "");
+                    listView1.Items.Add(item);
                 }
                 
             }
             catch
             {
-
+                resultatLbl.Text = "Geben Sie richtige Zahlen ein";
             }
         }
 
         private void resetBtn_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-            textBox2.Text = "";
-            resultatLbl.Text = "";
+            listView1.Items.Clear();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -88,6 +91,32 @@ namespace Aufgabe_Rechner
         private void textBox2_Leave(object sender, EventArgs e)
         {
            // MessageBox.Show("Hallo");
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exportBtn_Click(object sender, EventArgs e)
+        {
+            var list = listView1.Items;
+            string[] export = new string[list.Count];
+            int i = 0;
+            foreach(ListViewItem item in list)
+            {
+                
+                var subitems = item.SubItems;
+                string output = "";
+                foreach(ListViewItem.ListViewSubItem sub in subitems)
+                {
+                    output += sub.Text + ";";
+                }
+                export[i] = output;
+                i++;
+                //C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\KursC#
+            }
+            System.IO.File.WriteAllLines(@"C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\KursC#\rechner.txt", export);
         }
     }
 }

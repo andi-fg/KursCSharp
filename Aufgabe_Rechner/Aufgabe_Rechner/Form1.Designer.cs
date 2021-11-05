@@ -36,6 +36,12 @@ namespace Aufgabe_Rechner
             this.resultatLbl = new System.Windows.Forms.Label();
             this.berechneBtn = new System.Windows.Forms.Button();
             this.resetBtn = new System.Windows.Forms.Button();
+            this.listView1 = new System.Windows.Forms.ListView();
+            this.columnHeader1 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader2 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader3 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader4 = new System.Windows.Forms.ColumnHeader();
+            this.exportBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -98,7 +104,7 @@ namespace Aufgabe_Rechner
             // 
             // resetBtn
             // 
-            this.resetBtn.Location = new System.Drawing.Point(234, 69);
+            this.resetBtn.Location = new System.Drawing.Point(13, 232);
             this.resetBtn.Name = "resetBtn";
             this.resetBtn.Size = new System.Drawing.Size(94, 29);
             this.resetBtn.TabIndex = 6;
@@ -106,12 +112,58 @@ namespace Aufgabe_Rechner
             this.resetBtn.UseVisualStyleBackColor = true;
             this.resetBtn.Click += new System.EventHandler(this.resetBtn_Click);
             // 
+            // listView1
+            // 
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1,
+            this.columnHeader2,
+            this.columnHeader3,
+            this.columnHeader4});
+            this.listView1.HideSelection = false;
+            this.listView1.Location = new System.Drawing.Point(13, 105);
+            this.listView1.Name = "listView1";
+            this.listView1.Size = new System.Drawing.Size(324, 121);
+            this.listView1.TabIndex = 7;
+            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Zahl1";
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Zahl2";
+            // 
+            // columnHeader3
+            // 
+            this.columnHeader3.Text = "Operation";
+            this.columnHeader3.Width = 100;
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "Resultat";
+            this.columnHeader4.Width = 100;
+            // 
+            // exportBtn
+            // 
+            this.exportBtn.Location = new System.Drawing.Point(243, 232);
+            this.exportBtn.Name = "exportBtn";
+            this.exportBtn.Size = new System.Drawing.Size(94, 29);
+            this.exportBtn.TabIndex = 8;
+            this.exportBtn.Text = "Export";
+            this.exportBtn.UseVisualStyleBackColor = true;
+            this.exportBtn.Click += new System.EventHandler(this.exportBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(394, 125);
+            this.ClientSize = new System.Drawing.Size(437, 290);
+            this.Controls.Add(this.exportBtn);
+            this.Controls.Add(this.listView1);
             this.Controls.Add(this.resetBtn);
             this.Controls.Add(this.berechneBtn);
             this.Controls.Add(this.resultatLbl);
@@ -136,6 +188,12 @@ namespace Aufgabe_Rechner
         private System.Windows.Forms.Label resultatLbl;
         private System.Windows.Forms.Button berechneBtn;
         private System.Windows.Forms.Button resetBtn;
+        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.Button exportBtn;
     }
 }
 

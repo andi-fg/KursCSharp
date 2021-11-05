@@ -1,0 +1,24 @@
+﻿<Window x:Class="testWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testWPF"
+        mc:Ignorable="d"
+        Title="Spiel" Height="450" Width="800" KeyUp="Ball_KeyUp">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="79*"/>
+            <ColumnDefinition Width="215*"/>
+            <ColumnDefinition Width="506*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="StartStopBtn" Content="Start/Stop" HorizontalAlignment="Left" Margin="65,113,0,0" VerticalAlignment="Top" Click="Button_Click" Height="41" Width="133" Grid.ColumnSpan="2"/>
+        <Canvas   Margin="170,0,0,0"  Background="#FFF6F3A2" Name="Spielplatz" Grid.ColumnSpan="2" Grid.Column="1" MouseDown="Spielplatz_MouseDown">
+            <Ellipse x:Name="Ball" Height="20" Canvas.Left="100" Stroke="Black" Canvas.Top="100" Width="20" Fill="#FF2200FF" MouseDown="Ball_MouseDown"/>
+        </Canvas>
+        <Label x:Name="klicksLbl" Content="Anzahl Klicks: 0" HorizontalAlignment="Left" Margin="65,159,0,0" VerticalAlignment="Top" Width="133" Grid.ColumnSpan="2"/>
+        <Label x:Name="danebenLbl" Content="Klicks daneben: 0" HorizontalAlignment="Left" Margin="65,185,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="133"/>
+        <Label x:Name="durchschnittLbl" Content="" HorizontalAlignment="Left" Margin="65,216,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="133"/>
+
+    </Grid>
+</Window>

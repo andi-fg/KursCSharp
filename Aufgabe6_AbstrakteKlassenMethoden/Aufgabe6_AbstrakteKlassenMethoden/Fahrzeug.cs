@@ -8,8 +8,8 @@ namespace Aufgabe6_AbstrakteKlassenMethoden
 {
     abstract class Fahrzeug
     {
-        public abstract void beschreib();
-        public virtual void bewege()
+        public abstract void Beschreib();
+        public virtual void Bewege()
         {
             Console.WriteLine("Das Fahrzeug bewegt sich");
         }

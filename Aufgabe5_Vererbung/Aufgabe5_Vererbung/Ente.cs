@@ -8,14 +8,14 @@ namespace Aufgabe5_Vererbung
 {
     class Ente : Tier
     {
-        public Ente(String name)
+        public Ente(string name)
             : base(name)
         {
             
         }
-        public override void sagHallo()
+        public override void SagHallo()
         {
-            Console.WriteLine("Ich bin eine Ente");
+            Console.WriteLine($"Ich bin eine Ente Namens {Name}");
         }
     }
 }

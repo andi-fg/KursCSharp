@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe2_Listen\\Aufgabe2_Listen\\Aufgabe2_Listen.csproj",
+      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe2_Listen\\Aufgabe2_Listen\\Aufgabe2_Listen.csproj",
       "projectName": "Aufgabe2_Listen",
-      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe2_Listen\\Aufgabe2_Listen\\Aufgabe2_Listen.csproj",
+      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe2_Listen\\Aufgabe2_Listen\\Aufgabe2_Listen.csproj",
       "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe2_Listen\\Aufgabe2_Listen\\obj\\",
+      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe2_Listen\\Aufgabe2_Listen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

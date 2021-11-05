@@ -8,15 +8,15 @@ namespace Aufgabe5_Vererbung
 {
     class Tier
     {
-        public String name { get; set; }
+        public string Name { get; set; }
         
-        public Tier(String name)
+        public Tier(string name)
         {
-            this.name = name;
+            this.Name = name;
         }
-        public virtual void sagHallo()
+        public virtual void SagHallo()
         {
-            Console.WriteLine($"Guten Tag ich bin {name}");
+            Console.WriteLine($"Guten Tag ich bin {Name}");
         }
     }
 }

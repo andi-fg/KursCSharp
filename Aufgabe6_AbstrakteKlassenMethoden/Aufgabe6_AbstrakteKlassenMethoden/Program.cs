@@ -7,12 +7,12 @@ namespace Aufgabe6_AbstrakteKlassenMethoden
         static void Main(string[] args)
         {
             Auto auto = new Auto();
-            auto.beschreib();
-            auto.bewege();
+            auto.Beschreib();
+            auto.Bewege();
 
             Flugzeug flugzeug = new Flugzeug();
-            flugzeug.beschreib();
-            flugzeug.bewege();
+            flugzeug.Beschreib();
+            flugzeug.Bewege();
 
             Console.ReadKey();
         }

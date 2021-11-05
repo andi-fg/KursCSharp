@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aufgabe9_LINQ_Select/1.0.0": {
+        "runtime": {
+          "Aufgabe9_LINQ_Select.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe9_LINQ_Select/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

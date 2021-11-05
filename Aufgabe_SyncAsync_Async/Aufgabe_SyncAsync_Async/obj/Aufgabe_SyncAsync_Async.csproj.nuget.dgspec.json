@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj": {}
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj": {
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj",
+        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj",
         "projectName": "Aufgabe_SyncAsync_Async",
-        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj",
+        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async.csproj",
         "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\obj\\",
+        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_SyncAsync_Async\\Aufgabe_SyncAsync_Async\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden.csproj",
+      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden.csproj",
       "projectName": "Aufgabe6_AbstrakteKlassenMethoden",
-      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden.csproj",
+      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden.csproj",
       "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\obj\\",
+      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe6_AbstrakteKlassenMethoden\\Aufgabe6_AbstrakteKlassenMethoden\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,12 +8,12 @@ namespace Aufgabe4_KlassenMethodenVariablen
         {
             Hund bernadiner = new Hund("Bernadiner");
             Hund huskey = new Hund("Huskey");
-            bernadiner.fellFarbe = "Braun";
-            huskey.fellFarbe = "Weiss";
-            Console.WriteLine($"Der {huskey.rasse} hat die Farbe {huskey.fellFarbe} und der {bernadiner.rasse} hat die Farbe {bernadiner.fellFarbe}.");
-            huskey.belle();
-            huskey.belle("Knurrrr");
-            huskey.belle("Knurr", 5);
+            bernadiner.FellFarbe = "Braun";
+            huskey.FellFarbe = "Weiss";
+            Console.WriteLine($"Der {huskey.Rasse} hat die Farbe {huskey.FellFarbe} und der {bernadiner.Rasse} hat die Farbe {bernadiner.FellFarbe}.");
+            huskey.Belle();
+            huskey.Belle("Knurrrr");
+            huskey.Belle("Knurr", 5);
 
             //Fenster nicht direkt schliessen
             Console.ReadKey();

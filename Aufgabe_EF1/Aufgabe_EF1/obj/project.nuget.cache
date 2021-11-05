@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FaVajQpoWvdMGXbpoHoptoilQLVbhEuZUyRDuYsU4NMNZzwmWEPXSrh4m64Q++7QX2JMvrT5TtXdnEw46Re3+g==",
+  "dgSpecHash": "jCJkXRgkaraHat/McHf7zhPnz8yAMLBXd1OLUafwnGS4xOhVxtngzW5t2MtQoUOoseo8cQHR9tNjydANFCg2ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_EF1\\Aufgabe_EF1\\Aufgabe_EF1.csproj",
+  "projectFilePath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_EF1\\Aufgabe_EF1\\Aufgabe_EF1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucaa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucaa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

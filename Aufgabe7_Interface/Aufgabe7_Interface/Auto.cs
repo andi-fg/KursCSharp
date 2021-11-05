@@ -8,7 +8,7 @@ namespace Aufgabe7_Interface
 {
     class Auto : Laermer
     {
-        public void gibLaut()
+        public void GibLaut()
         {
             Console.WriteLine("Brumm Brumm!");
         }

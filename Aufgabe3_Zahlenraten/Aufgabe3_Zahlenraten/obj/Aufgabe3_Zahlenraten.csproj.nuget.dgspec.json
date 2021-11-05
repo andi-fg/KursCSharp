@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj": {}
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj": {
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj",
+        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj",
         "projectName": "Aufgabe3_Zahlenraten",
-        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj",
+        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten.csproj",
         "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\obj\\",
+        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe3_Zahlenraten\\Aufgabe3_Zahlenraten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

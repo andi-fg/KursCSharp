@@ -8,7 +8,7 @@ namespace Aufgabe7_Interface
 {
     class Katze : Haustier
     {
-        public override void gibLaut()
+        public override void GibLaut()
         {
             Console.WriteLine("Miau");
         }

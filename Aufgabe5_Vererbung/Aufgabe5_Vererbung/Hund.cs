@@ -8,23 +8,23 @@ namespace Aufgabe5_Vererbung
 {
     class Hund : Tier
     {
-        public String rasse { get; }
-        public String fellFarbe { get; set; }
+        public string Rasse { get; }
+        public string FellFarbe { get; set; }
 
-        public Hund(String rasse, String name) 
+        public Hund(string rasse, string name) 
             : base(name)
         {
-            this.rasse = rasse;
+            this.Rasse = rasse;
         }
-        public void belle()
+        public void Belle()
         {
             Console.WriteLine("Wuff");
         }
-        public void belle(String laut)
+        public void Belle(string laut)
         {
             Console.WriteLine(laut);
         }
-        public void belle(String laut, int anzahl)
+        public void Belle(string laut, int anzahl)
         {
             for(int i = 1; i <= anzahl; i++)
             {

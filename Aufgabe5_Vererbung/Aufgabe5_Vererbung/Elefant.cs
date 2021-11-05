@@ -8,14 +8,14 @@ namespace Aufgabe5_Vererbung
 {
     class Elefant : Tier
     {
-        public Elefant(String name)
+        public Elefant(string name)
             : base(name)
         {
            
         }
-        public override void sagHallo()
+        public override void SagHallo()
         {
-            base.sagHallo();
+            base.SagHallo();
             Console.WriteLine("Ich bin ein Elefant");
         }
     }

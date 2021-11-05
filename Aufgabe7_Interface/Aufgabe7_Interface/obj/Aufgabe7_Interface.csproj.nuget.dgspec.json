@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj": {}
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj": {
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj",
+        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj",
         "projectName": "Aufgabe7_Interface",
-        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj",
+        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe7_Interface\\Aufgabe7_Interface\\Aufgabe7_Interface.csproj",
         "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe7_Interface\\Aufgabe7_Interface\\obj\\",
+        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe7_Interface\\Aufgabe7_Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

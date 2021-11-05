@@ -9,14 +9,14 @@ namespace Aufgabe5_Vererbung
             Hund hans = new Hund("Huskey", "Alice");
             Ente anna = new Ente("Hans");
             Elefant dumbo = new Elefant("Dumbo");
-            hans.sagHallo();
+            hans.SagHallo();
             Console.WriteLine();
-            anna.sagHallo();
+            anna.SagHallo();
             Console.WriteLine();
-            dumbo.sagHallo();
+            dumbo.SagHallo();
             Console.WriteLine();
             Tier ruedi = new Tier("Ruedi");
-            ruedi.sagHallo();
+            ruedi.SagHallo();
             //Fenster geht nicht direkt zu
             Console.ReadKey();
         }

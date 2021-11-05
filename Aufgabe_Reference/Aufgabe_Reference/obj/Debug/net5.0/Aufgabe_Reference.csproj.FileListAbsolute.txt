@@ -1,0 +1,15 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\ref\Aufgabe_Reference.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\bin\Debug\net5.0\Aufgabe_Reference.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\ref\Aufgabe_Reference.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe_Reference\Aufgabe_Reference\obj\Debug\net5.0\Aufgabe_Reference.genruntimeconfig.cache

@@ -8,6 +8,6 @@ namespace Aufgabe7_Interface
 {
     interface Laermer
     {
-        public void gibLaut();
+        public void GibLaut();
     }
 }

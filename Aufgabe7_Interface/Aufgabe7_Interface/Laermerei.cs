@@ -8,16 +8,16 @@ namespace Aufgabe7_Interface
 {
     class Laermerei
     {
-        private List<Laermer> orchester = new List<Laermer>();
-        public void addLaermer(Laermer laermer)
+        private List<Laermer> Orchester = new List<Laermer>();
+        public void AddLaermer(Laermer laermer)
         {
-            orchester.Add(laermer);
+            Orchester.Add(laermer);
         }
-        public void laerme()
+        public void Laerme()
         {
-            foreach(Laermer laermer in orchester)
+            foreach(Laermer laermer in Orchester)
             {
-                laermer.gibLaut();
+                laermer.GibLaut();
             }
         }
     }

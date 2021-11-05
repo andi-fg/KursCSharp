@@ -7,11 +7,11 @@ namespace Aufgabe7_Interface
         static void Main(string[] args)
         {
             Laermerei l = new Laermerei();
-            l.addLaermer(new Donner());
-            l.addLaermer(new Auto());
-            l.addLaermer(new Katze());
-            l.addLaermer(new Hund());
-            l.laerme();
+            l.AddLaermer(new Donner());
+            l.AddLaermer(new Auto());
+            l.AddLaermer(new Katze());
+            l.AddLaermer(new Hund());
+            l.Laerme();
 
             //Fenster schliesst nicht gleich
             Console.ReadKey();

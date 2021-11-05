@@ -1,0 +1,16 @@
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.exe
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.deps.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.runtimeconfig.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.runtimeconfig.dev.json
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\ref\Aufgabe9_LINQ_Select.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\bin\Debug\net5.0\Aufgabe9_LINQ_Select.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.csproj.AssemblyReference.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.AssemblyInfoInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.AssemblyInfo.cs
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\ref\Aufgabe9_LINQ_Select.dll
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.pdb
+C:\Users\lucaa\OneDrive\Desktop\Mischa\UnterrichtC#\Aufgaben\Aufgabe9_LINQ_Select\Aufgabe9_LINQ_Select\obj\Debug\net5.0\Aufgabe9_LINQ_Select.genruntimeconfig.cache

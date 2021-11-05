@@ -8,7 +8,7 @@ namespace Aufgabe6_AbstrakteKlassenMethoden
 {
     class Auto : Fahrzeug
     {
-        public override void beschreib()
+        public override void Beschreib()
         {
             Console.WriteLine("Ich bin ein Auto");
         }

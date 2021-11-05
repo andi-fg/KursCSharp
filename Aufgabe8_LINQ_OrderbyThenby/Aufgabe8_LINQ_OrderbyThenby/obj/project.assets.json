@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby.csproj",
+      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby.csproj",
       "projectName": "Aufgabe8_LINQ_OrderbyThenby",
-      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby.csproj",
+      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby.csproj",
       "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\obj\\",
+      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe8_LINQ_OrderbyThenby\\Aufgabe8_LINQ_OrderbyThenby\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

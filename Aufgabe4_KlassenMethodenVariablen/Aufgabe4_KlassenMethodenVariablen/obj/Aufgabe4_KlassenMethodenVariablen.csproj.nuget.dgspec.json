@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj": {}
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj": {
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj",
+        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj",
         "projectName": "Aufgabe4_KlassenMethodenVariablen",
-        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj",
+        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen.csproj",
         "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\obj\\",
+        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe4_KlassenMethodenVariablen\\Aufgabe4_KlassenMethodenVariablen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

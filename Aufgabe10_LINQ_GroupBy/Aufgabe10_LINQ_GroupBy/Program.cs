@@ -27,7 +27,7 @@ namespace Aufgabe10_LINQ_GroupBy
                 }
             }
             //2
-            var altersGruppe = personen.GroupBy(person => person.altersGruppe());
+            var altersGruppe = personen.GroupBy(person => person.AltersGruppe());
             foreach(var gruppe in altersGruppe)
             {
                 Console.WriteLine($"{gruppe.Key}: ");
@@ -52,11 +52,11 @@ namespace Aufgabe10_LINQ_GroupBy
     }
     class Person
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public int Alter { get; set; }
         public String Land { get; set; }
 
-        public string altersGruppe()
+        public string AltersGruppe()
         {
             if(this.Alter < 13)
             {

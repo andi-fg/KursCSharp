@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj": {}
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj": {
+    "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj",
+        "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj",
         "projectName": "Aufgabe10_LINQ_GroupBy",
-        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj",
+        "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy.csproj",
         "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\obj\\",
+        "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe10_LINQ_GroupBy\\Aufgabe10_LINQ_GroupBy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

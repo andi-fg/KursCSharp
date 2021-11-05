@@ -8,6 +8,6 @@ namespace Aufgabe7_Interface
 {
     abstract class Haustier : Laermer
     {
-        public abstract void gibLaut();
+        public abstract void GibLaut();
     }
 }

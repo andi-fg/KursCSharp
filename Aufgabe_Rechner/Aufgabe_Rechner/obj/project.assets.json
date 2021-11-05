@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_Rechner\\Aufgabe_Rechner\\Aufgabe_Rechner.csproj",
+      "projectUniqueName": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_Rechner\\Aufgabe_Rechner\\Aufgabe_Rechner.csproj",
       "projectName": "Aufgabe_Rechner",
-      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_Rechner\\Aufgabe_Rechner\\Aufgabe_Rechner.csproj",
+      "projectPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_Rechner\\Aufgabe_Rechner\\Aufgabe_Rechner.csproj",
       "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\Aufgaben\\Aufgabe_Rechner\\Aufgabe_Rechner\\obj\\",
+      "outputPath": "C:\\Users\\lucaa\\OneDrive\\Desktop\\Mischa\\UnterrichtC#\\KursC#\\Aufgabe_Rechner\\Aufgabe_Rechner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

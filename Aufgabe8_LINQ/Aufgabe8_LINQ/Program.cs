@@ -77,7 +77,7 @@ namespace Aufgabe8_LINQ
     }
     class Person
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public int Alter { get; set; }
     }
 }

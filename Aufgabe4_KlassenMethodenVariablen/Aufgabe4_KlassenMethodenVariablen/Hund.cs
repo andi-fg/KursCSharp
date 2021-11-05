@@ -8,22 +8,22 @@ namespace Aufgabe4_KlassenMethodenVariablen
 {
     class Hund
     {
-        public String rasse { get; }
-        public String fellFarbe { get; set; }
+        public string Rasse { get; }
+        public string FellFarbe { get; set; }
 
-        public Hund(String rasse)
+        public Hund(string rasse)
         {
-            this.rasse = rasse;
+            this.Rasse = rasse;
         }
-        public void belle()
+        public void Belle()
         {
             Console.WriteLine("Wuff");
         }
-        public void belle(String laut)
+        public void Belle(string laut)
         {
             Console.WriteLine(laut);
         }
-        public void belle(String laut, int anzahl)
+        public void Belle(string laut, int anzahl)
         {
             for(int i = 1; i <= anzahl; i++)
             {
